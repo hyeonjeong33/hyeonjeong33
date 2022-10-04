@@ -29,8 +29,8 @@
         <strong>🌊 About Me 🏄🏻‍♀️</strong>
         <br /><br />
       <a href="https://velog.io/@hyeonjeong33" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-        <a href="mailto:hyeonjeon93@gmail.com">
-            <img src="https://img.shields.io/badge/hyeonjeon93@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white" />
+        <a href="mailto:hyeonjeong93@gmail.com">
+            <img src="https://img.shields.io/badge/hyeonjeong93@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white" />
         </a>
     </p>
 </div>
