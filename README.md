@@ -10,8 +10,9 @@
         <br /><br />
         <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=Nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Nestjs-E0234E?style=flat-square&logo=Nestjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=white" />
         <img src="https://img.shields.io/badge/Graphql-E10098?style=flat-square&logo=Graphql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Nestjs-E0234E?style=flat-square&logo=Nestjs&logoColor=white" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" />
         <img src="https://img.shields.io/badge/Nextjs-527FFF?style=flat-square&logo=Next.js&logoColor=white" />
         <br>
@@ -28,8 +29,7 @@
     <p>
         <strong>🌊 About Me 🏄🏻‍♀️</strong>
         <br /><br />
-      <a href="https://velog.io/@hyeonjeong33" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-        <a href="mailto:hyeonjeong93@gmail.com">
+         <a href="mailto:hyeonjeong93@gmail.com">
             <img src="https://img.shields.io/badge/hyeonjeong93@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white" />
         </a>
     </p>
