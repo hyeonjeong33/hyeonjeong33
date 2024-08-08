@@ -18,13 +18,16 @@
         <br>
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=Redis&logoColor=white" />
         <img src="https://img.shields.io/badge/SQLite-40B5A4?style=flat-square&logo=SQLite&logoColor=white" />
         <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white" />
+        <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=springdatajpa&logoColor=white" />
         <br>
-        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white" />
+        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" />
         <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white" />
         <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white" />
+        <img src="https://img.shields.io/badge/Sphinx Search Engine-0854C1?style=flat-square" />
         <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=Puppeteer&logoColor=white" />
     </p><br />
     <p>
